@@ -1,0 +1,120 @@
+﻿
+@{
+    ViewBag.Title = "AddRole";
+}
+
+
+@*@section head{
+
+    <style>
+
+
+        #hata {
+            color: red;
+            font-size: 16px;
+        }
+    </style>
+}*@
+
+<div class="col-md-12">
+    <div class="block">
+        <div class="block-heading">
+            <div class="main-text h2">
+                Role Ekleme Sayfası
+            </div>
+            <div class="block-controls">
+                <a href="/Role/Index"><span aria-hidden="true" class="icon icon-cross icon-size-medium block-control-remove"></span></a>
+                <span aria-hidden="true" class="icon icon-arrow-down icon-size-medium block-control-collapse"></span>
+            </div>
+        </div>
+        <div class="block-content-outer">
+            <div class="block-content-inner">
+
+                <form action="/Role/AddRole" method="post" role="form">
+
+
+
+                    <div class="form-group">
+                       @{ 
+                           string message = ViewBag.Message;
+                           if (message != null)
+                           {
+                               if (message == "Basarili")
+                               {
+                                    <label class="text-success">@message</label>
+                               }
+                               else {
+                                    <label class="text-danger">@message</label>
+                                   }
+
+                               }
+                           }
+
+                    </div>
+
+                    <div class="form-group">
+
+                        <label for="exampleInputEmail1">Role Adı: </label>
+                        <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Role adı giriniz.." name="role">
+
+                    </div>
+
+
+
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
+                @*<span id="hata">@ViewBag.createMessage</span>*@
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@*@section script{
+        <script src="~/Content/assets/js/required/jquery-1.11.1.min.js"></script>
+
+        <script>
+
+            $(".roleAdd").click(function () {
+
+
+                var answer = confirm("Kayıt eklensin mi?");    //Confirm = evet- hayır soruları sorduran mesaj kutusu.
+
+                if (answer == true) {
+
+                    var id = $(this).attr("data-id");
+
+                    alert("id: " + id);
+
+                    $.ajax({
+
+                        type: "POST",
+                        url: "/Role/AddRole/" + id,
+
+                        success: function () {
+
+                            alert("Kayıt eklendi");
+                           // window.location.replace("/Role/Index");  //Burası AJAX koduyla yapılmadı,Ajax ile yapmayı araştır.(Yani tüm sayfayı(Footer,header vs) yüklüyor bunu istemiyoruz)
+                        },
+
+                        error: function () {
+
+                            alert("Kayıt ekleme sırasında hata oluştu!");
+                        },
+
+                    });
+
+                }
+                else {
+
+                    alert("İptale basıldı.");
+
+                }
+
+            });
+
+
+        </script>
+
+
+    }*@

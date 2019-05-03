@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewBag.Title = "Sepet";
+}
+
+@using MVC_CircloidTemplate.App_Classes
+@using MVC_CircloidTemplate.Models
+
+@model List<CartClass>
+
+
+
+
+<div class=" row">
+
+    <div class="col-md-12">
+        <div class="block">
+            <div class="block-heading">
+                <div class="main-text h2">
+                    Sepetteki Ürünler Listesi
+                </div>
+                <div class="block-controls">
+
+                    <span aria-hidden="true" class="icon icon-arrow-down icon-size-medium block-control-collapse"></span>
+                    @*<button type="button" class="btn btn-success rounded">Success Button</button>*@
+                    <a href="/Product/Index" class="btn btn-success rounded" role="button">Alışverişe Devam Et</a>
+
+                </div>
+            </div>
+            <div class="block-content-outer">
+                <div id="sepetList" class="block-content-inner">
+                  
+                    @if (Session["CurrentCart"] != null)
+                    {
+                        CartClass c = (CartClass)Session["CurrentCart"];
+                        @Html.Partial("/Views/Home/PartialCartListView.cshtml", c.PrdList);
+                    }
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+
+
+
+

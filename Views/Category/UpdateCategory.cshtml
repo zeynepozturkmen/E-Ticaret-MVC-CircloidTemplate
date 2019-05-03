@@ -1,0 +1,98 @@
+﻿
+@{
+    ViewBag.Title = "UpdateCategory";
+}
+
+
+
+
+@using MVC_CircloidTemplate.Models
+
+@model Category
+
+
+@section head{
+    
+<script src="~/Content/assets/js/required/jquery-1.11.1.min.js"></script>
+
+    <script>
+
+        $(document).ready(function () {
+            $("#file").on("change", function () {
+                const files = this.files;
+                console.log(files);
+
+                if (files.length > 0) {
+                    var reader = new FileReader();
+                    reader.onload = function (e) {
+                        $('#picture').attr('src', e.target.result);
+                    }
+                    reader.readAsDataUrl(files[0]);
+
+                }
+            })
+        });
+         
+    </script>
+    
+    }
+
+
+<div class="row">
+
+    <div class="col-md-12">
+        <div class="block">
+            <div class="block-heading">
+                <div class="main-text h2">
+                    Kategori Güncelleme Sayfası
+                </div>
+                <div class="block-controls">
+                    <a href="/Category/Index"><span aria-hidden="true" class="icon icon-cross icon-size-medium block-control-remove"></span></a>
+                    <span aria-hidden="true" class="icon icon-arrow-down icon-size-medium block-control-collapse"></span>
+                </div>
+            </div>
+            <div class="block-content-outer">
+                <div class="block-content-inner">
+
+                    <form action="/Category/UpdateCategory" method="post" role="form" enctype="multipart/form-data">
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">Kategori Adı: </label>
+
+                            <input type="text" class="form-control" id="exampleInputEmail1" name="CategoryName" value="@Model.CategoryName">
+                        </div>
+
+                        <div class="form-group">
+                            <label for="exampleInputPassword1">Açıklama: </label>
+                            <input type="text" class="form-control" id="exampleInputPassword1" name="Description" value="@Model.Description">
+                            <input type="hidden" name="CategoryID" value="@Model.CategoryID" />
+                        </div>
+
+
+
+                        <div class="form-group">
+                            <div class="row">
+                                <div class="col-md-2">
+                                    <label for="exampleInputPassword1">Resim:</label>
+                                </div>
+                                <div class="col-md-10">Resim: </div>
+
+                                <div class="col-md-5">
+                                   <img src="" alt="Kategori Resim" width="100" height="100" id="picture" />
+
+                                </div>
+                                <div class="col-md-5" >
+                                     <input name="Picture" type="file" id="file" />
+                            </div>
+                        </div>
+                     </div>
+                        <button type="submit" class="btn btn-primary">Evet</button>
+
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+

@@ -1,0 +1,189 @@
+﻿
+@{
+    ViewBag.Title = "Üyeler";
+}
+
+@using System.Web.Security
+
+@model MembershipUserCollection
+
+@section head{
+
+    <script src="~/Content/assets/js/required/jquery-1.11.1.min.js"></script>
+    <script>
+    $(document).ready(function () {
+            $(".addRole").on('click', function () {
+                const username = $(this).attr("data-username");
+                console.log(username);
+                window.location.href = "/User/AssignRole?username=" + username;
+        });
+
+        $(".roles").on('click', function () {
+
+            var username = $(this).attr("data-username");
+
+            alert("username: " + username);
+
+            $.ajax({
+
+                type: "GET",
+                url: "/User/UsersRoles?username=" + username,
+
+                success: function (roles) {
+
+                    alert(roles);
+                },
+
+                error: function () {
+
+                    alert("Rolleri gösterme sırasında hata oluştu");
+                },
+
+            });
+        });
+
+
+
+
+
+        $(".roles2").on('click', function () {
+
+            var username = $(this).attr("data-username");
+
+            alert("username: " + username);
+
+            window.location.href = "/User/UsersRoles2?username=" + username;
+    
+
+        });
+
+    });
+
+    </script>
+
+}
+
+
+
+<div class=" row">
+
+    <div class="col-md-12">
+        <div class="block">
+            <div class="block-heading">
+                <div class="main-text h2">
+                    Üyeler Listesi
+                </div>
+                <div class="block-controls">
+
+                    <span aria-hidden="true" class="icon icon-arrow-down icon-size-medium block-control-collapse"></span>
+                    @*<button type="button" class="btn btn-success rounded">Success Button</button>*@
+                    <a href="/User/AddUser" class="btn btn-success rounded" role="button">Kullanıcı Üye Ekle</a>
+
+                </div>
+            </div>
+            <div class="block-content-outer">
+                <div class="block-content-inner">
+                    <table class="table table-striped table-hover">
+                        <thead>
+                            <tr>
+                                <th>Kullanıcı Adı</th>
+                                <th>E-Mail</th>
+                                <th>Kayıt Tarihi</th>
+                                <th>Sisteme Son giriş tarihi</th>
+                                <th>Rolleri alert ile Göster</th>
+                                <th>Rolleri view ile yeni sayfada Göster</th>
+                                <th>Rol Ata</th>
+                                <th>Sil</th>
+
+                            </tr>
+
+                        </thead>
+                        <tbody>
+
+                            @foreach (MembershipUser mu in Model)
+                            {
+
+                            <tr>
+                                <td>@mu.UserName</td>
+                                <td>@mu.Email</td>
+                                <td>@mu.CreationDate</td>
+                                <td>@mu.LastLoginDate</td>
+
+
+
+
+
+
+                                <td><a href="#" class="btn btn-primary rounded roles" data-username="@mu.UserName">Rolleri</a></td>
+
+                                <td><a href="#" class="btn btn-primary rounded roles2" data-username="@mu.UserName">Rolleri view ile Göster</a></td>
+
+                                <td><a href="#" class="btn btn-primary rounded addRole" data-username="@mu.UserName">Rol Ata</a></td>
+                                <!--Ajax ile silme işlemi yaptıracağız.-->
+                                <td><a href="#" class="btn btn-danger rounded deleteMember" data-id="@mu.UserName">Sil</a></td>
+
+
+                            </tr>
+
+                            }
+
+                        </tbody>
+                    </table>
+
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+@section scripts{
+
+    <script src="~/Content/assets/js/required/jquery-1.11.1.min.js"></script>
+
+    <script>
+
+        $(".deleteMember").click(function () {
+
+
+            var answer = confirm("Kayıt silinsin mi?");    //Confirm = evet- hayır soruları sorduran mesaj kutusu.
+
+            if (answer == true) {
+
+                var id = $(this).attr("data-id");
+
+                alert("id: " + id);
+
+                $.ajax({
+
+                    type: "POST",
+                    url: "/User/DeleteUser/" + id,
+
+                    success: function () {
+
+                        alert("Kayıt silindi");
+                        window.location.replace("/User/Index");  //Burası AJAX koduyla yapılmadı,Ajax ile yapmayı araştır.(Yani tüm sayfayı(Footer,header vs) yüklüyor bunu istemiyoruz)
+                    },
+
+                    error: function () {
+
+                        alert("Kayıt silme sırasında hata oluştu!");
+                    },
+
+                });
+
+            }
+            else {
+
+                alert("İptale basıldı.");
+
+            }
+
+        });
+
+
+    </script>
+}

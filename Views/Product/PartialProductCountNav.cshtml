@@ -1,0 +1,80 @@
+﻿
+@using MVC_CircloidTemplate.Models;
+@model List<Product>
+
+
+@if (Model != null)
+{
+    <a href="#" class="top">
+
+        <span class="glyphicon glyphicon-shopping-cart">
+
+        </span>
+        <span class="main-menu-text">
+            Sepetim(@Model.Count)
+
+            <i class="icon icon-arrow-down-bold-round icon-size-small"></i>
+        </span>
+    </a>
+
+
+    <ul>
+
+        @foreach (Product prod in Model)
+        {
+
+            <li>
+                <a href="/Product/UpdateProduct?prdID=@prod.ProductID&prdName=@prod.ProductName&prdFrom=Detay">
+                    <span aria-hidden="true" class="icon icon-arrow-curve-right"></span>
+                    <span class="main-text">@prod.ProductName</span>
+                </a>
+            </li>
+        }
+
+        <li>
+            <a href="/Home/MyCart">
+                <span aria-hidden="true" class="icon icon-arrow-curve-right"></span>
+                <span class="main-text">Sepete Git</span>
+            </a>
+        </li>
+    </ul>
+
+
+
+
+}
+
+
+<script type="text/javascript" src="/Content/assets/js/required/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="/Content/assets/js/required/jquery-ui-1.11.0.custom/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/Content/assets/js/required/bootstrap/bootstrap.min.js"></script>
+<script type="text/javascript" src="/Content/assets/js/required/jquery.easing.1.3-min.js"></script>
+<script type="text/javascript" src="/Content/assets/js/required/jquery.mCustomScrollbar.min.js"></script>
+<script type="text/javascript" src="/Content/assets/js/required/misc/jquery.mousewheel-3.0.6.min.js"></script>
+<script type="text/javascript" src="/Content/assets/js/required/misc/retina.min.js"></script>
+<script type="text/javascript" src="/Content/assets/js/required/icheck.min.js"></script>
+<script type="text/javascript" src="/Content/assets/js/required/misc/jquery.ui.touch-punch.min.js"></script>
+<script type="text/javascript" src="/Content/assets/js/required/circloid-functions.js"></script>
+<!-- Optional JS Files -->
+<script type="text/javascript" src="/Content/assets/js/optional/circloid-functions-optional.js"></script>
+<script type="text/javascript" src="/Content/assets/js/optional/jqvmap/jquery.vmap.min.js"></script>
+<script type="text/javascript" src="/Content/assets/js/optional/jqvmap/maps/jquery.vmap.world.js"></script>
+<script type="text/javascript" src="/Content/assets/js/optional/jqvmap/data/jquery.vmap.sampledata.js"></script> <!-- JQVMap Sample Data -->
+<script type="text/javascript" src="/Content/assets/js/optional/flot/jquery.flot.min.js"></script>
+<script type="text/javascript" src="/Content/assets/js/optional/flot/jquery.flot.JUMlib.min.js"></script>
+<script type="text/javascript" src="/Content/assets/js/optional/flot/jquery.flot.resize.min.js"></script>
+<script type="text/javascript" src="/Content/assets/js/optional/flot/jquery.flot.tooltip.min.js"></script>
+<script type="text/javascript" src="/Content/assets/js/optional/flot/jquery.flot.pie.min.js"></script>
+<script type="text/javascript" src="/Content/assets/js/optional/flot/jquery.flot.stack.min.js"></script>
+<script type="text/javascript" src="/Content/assets/js/optional/flot/jquery.flot.bubbles.min.js"></script>
+<script type="text/javascript" src="/Content/assets/js/optional/flot/jquery.flot.time.min.js"></script>
+<script type="text/javascript" src="/Content/assets/js/optional/flot/jquery.flot.orderBars.js"></script>
+<script type="text/javascript" src="/Content/assets/js/optional/easy-pie-chart/jquery.easypiechart.min.js"></script>
+<script type="text/javascript" src="/Content/assets/js/optional/misc/moment.js"></script>
+<script type="text/javascript" src="/Content/assets/js/optional/fullcalendar/fullcalendar.min.js"></script>
+<!-- add optional JS plugin files here -->
+<!-- REQUIRED: User Editable JS Files -->
+<script type="text/javascript" src="/Content/assets/js/script.js"></script>
+<!-- add additional User Editable files here -->
+<!-- Demo JS Files -->
+<script type="text/javascript" src="/Content/assets/js/demo-files/index.js"></script>   

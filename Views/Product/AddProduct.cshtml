@@ -1,0 +1,68 @@
+﻿
+@{
+    ViewBag.Title = "Ürün Ekleme";
+}
+
+@using MVC_CircloidTemplate.Models
+
+<div class="row">
+
+    <div class="col-md-12">
+        <div class="block">
+            <div class="block-heading">
+                <div class="main-text h2">
+                    Ürün Ekleme
+                </div>
+                <div class="block-controls">
+                    <a href="/Product/Index"><span aria-hidden="true" class="icon icon-cross icon-size-medium block-control-remove"></span></a>
+                    <span aria-hidden="true" class="icon icon-arrow-down icon-size-medium block-control-collapse"></span>
+                </div>
+            </div>
+            <div class="block-content-outer">
+                <div class="block-content-inner">
+
+                    <form action="/Product/AddProduct" method="post" role="form">
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">Ürün Adı: </label>
+                            <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Ürün adı giriniz.." name="ProductName">
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputPassword1">Fiyat</label>
+                            <input type="number" class="form-control" id="exampleInputPassword1" placeholder="Fiyat Giriniz.." name="UnitPrice">
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputPassword1">Stok: </label>
+                            <input type="number" class="form-control" id="exampleInputPassword1" placeholder="Stok Miktarı Giriniz.." name="UnitsInStock">
+                        </div>
+
+                        <div class="form-group">
+                            <label for="exampleInputPassword1">Category: </label>
+
+                            <select class="form-control" name="CategoryID">
+                                @foreach (Category ctg in ViewBag.catList)
+                                {
+                                    <option value="@ctg.CategoryID">@ctg.CategoryName</option>
+                                }
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="exampleInputPassword1">Company: </label>
+                            <select class="form-control" name="SupplierID">
+                                @foreach (Supplier sup in ViewBag.supList)
+                                {
+                                    <option value="@sup.SupplierID">@sup.CompanyName</option>
+                                }
+                            </select>
+                        </div>
+
+
+                        <button type="submit" class="btn btn-primary">Submit</button>
+
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewBag.Title = "UpdateSupplier";
+}
+
+
+@using MVC_CircloidTemplate.Models
+
+@model Supplier
+
+<div class="row">
+
+    <div class="col-md-12">
+        <div class="block">
+            <div class="block-heading">
+                <div class="main-text h2">
+                    Tedarikçi Güncelleme Sayfası
+                </div>
+                <div class="block-controls">
+                    <a href="/Supplier/Index"><span aria-hidden="true" class="icon icon-cross icon-size-medium block-control-remove"></span></a>
+                    <span aria-hidden="true" class="icon icon-arrow-down icon-size-medium block-control-collapse"></span>
+                </div>
+            </div>
+            <div class="block-content-outer">
+                <div class="block-content-inner">
+
+                    <form action="/Supplier/UpdateSupplier" method="post" role="form">
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">Tedarikçi Adı: </label>
+
+                            <input type="text" class="form-control" id="exampleInputEmail1" name="CompanyName" value="@Model.CompanyName">
+                        </div>
+
+                        <div class="form-group">
+                            <label for="exampleInputPassword1">Açıklama: </label>
+                            <input type="text" class="form-control" id="exampleInputPassword1" name="Address" value="@Model.Address">
+                            <input type="hidden" name="SupplierID" value="@Model.SupplierID" />
+                        </div>
+
+
+
+                        <button type="submit" class="btn btn-primary">Güncelle</button>
+
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+

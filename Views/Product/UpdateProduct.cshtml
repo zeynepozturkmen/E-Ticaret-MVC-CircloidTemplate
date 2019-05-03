@@ -1,0 +1,92 @@
+﻿
+
+@{
+    ViewBag.Title = "Update Product";
+}
+
+
+@using MVC_CircloidTemplate.Models
+
+@model Product
+
+<div class="row">
+
+    <div class="col-md-12">
+        <div class="block">
+            <div class="block-heading">
+                <div class="main-text h2">
+                    Ürün @ViewBag.productFrom Sayfası
+                </div>
+                <div class="block-controls">
+                    <a href="/Product/Index"><span aria-hidden="true" class="icon icon-cross icon-size-medium block-control-remove"></span></a>
+                    <span aria-hidden="true" class="icon icon-arrow-down icon-size-medium block-control-collapse"></span>
+                </div>
+            </div>
+            <div class="block-content-outer">
+                <div class="block-content-inner">
+
+                    <form action="/Product/UpdateProduct" method="post" role="form">
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">Ürün Adı: </label>
+                            <input type="text" class="form-control" id="exampleInputEmail1" name="ProductName" value="@Model.ProductName">
+
+                            <input type="hidden"   name="ProductID" value="@Model.ProductID"/>
+
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputPassword1">Fiyat</label>
+                            <input asp-for="money" class="form-control" id="exampleInputPassword1"  name="UnitPrice" value="@Model.UnitPrice">
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputPassword1">Stok: </label>
+                            <input type="number" class="form-control" id="exampleInputPassword1"  name="UnitsInStock" value="@Model.UnitsInStock">
+                        </div>
+
+                        <div class="form-group">
+                            <label for="exampleInputPassword1">Category: </label>
+
+                            <select class="form-control" name="CategoryID">
+
+                                @foreach (Category ctg in ViewBag.catList)
+                                {
+
+                                    if (ctg.CategoryID == Model.CategoryID)
+                                    {
+                                        <option value="@ctg.CategoryID" selected>@ctg.CategoryName</option>
+                                    }
+
+                                    <option value="@ctg.CategoryID">@ctg.CategoryName</option>
+                                }
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="exampleInputPassword1">Company: </label>
+                            <select class="form-control" name="SupplierID" value="@Model.Supplier.CompanyName">
+
+                                @foreach (Supplier sup in ViewBag.supList)
+                                {
+                                    if (sup.SupplierID == Model.SupplierID)
+                                    {
+                                        <option value="@sup.SupplierID" selected>@sup.CompanyName</option>
+                                    }
+                                    <option value="@sup.SupplierID">@sup.CompanyName</option>
+                                }
+                            </select>
+                        </div>
+
+                        @if (ViewBag.productFrom=="Güncelleme")
+                        {
+
+                        <button type="submit" class="btn btn-primary">Güncelle</button>
+                        }
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+

@@ -1,0 +1,442 @@
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\MVC-CircloidTemplate.dll.config
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\MVC-CircloidTemplate.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\MVC-CircloidTemplate.pdb
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csc.exe
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csc.exe.config
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csc.rsp
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csi.exe
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csi.exe.config
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csi.rsp
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.AppContext.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Console.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.Compression.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Claims.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.ValueTuple.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\vbc.exe
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\vbc.exe.config
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\vbc.rsp
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Helpers.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Mvc.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Razor.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.Razor.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Razor.xml
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.xml
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.Razor.xml
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Helpers.xml
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Mvc.xml
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.csproj.CopyComplete
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.pdb
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\EntityFramework.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\EntityFramework.xml
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\EntityFramework.SqlServer.xml
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\MVC-CircloidTemplate.dll.config
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\MVC-CircloidTemplate.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\MVC-CircloidTemplate.pdb
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csc.exe
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csc.exe.config
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csc.rsp
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csi.exe
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csi.exe.config
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csi.rsp
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.AppContext.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Console.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.Compression.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Claims.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.ValueTuple.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\vbc.exe
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\vbc.exe.config
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\vbc.rsp
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\VBCSCompiler.exe
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\EntityFramework.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\EntityFramework.SqlServer.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Helpers.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Mvc.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Razor.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.Deployment.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.Razor.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\EntityFramework.xml
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\EntityFramework.SqlServer.xml
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Razor.xml
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.xml
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.Deployment.xml
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.Razor.xml
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Helpers.xml
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Mvc.xml
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.csprojAssemblyReference.cache
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.csproj.CoreCompileInputs.cache
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.csproj.CopyComplete
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.dll
+C:\Users\mine-\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.pdb
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\MVC-CircloidTemplate.dll.config
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\MVC-CircloidTemplate.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\MVC-CircloidTemplate.pdb
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csc.exe
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csc.exe.config
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csc.rsp
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csi.exe
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csi.exe.config
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csi.rsp
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.AppContext.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Console.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.Compression.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Claims.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.ValueTuple.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\vbc.exe
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\vbc.exe.config
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\vbc.rsp
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\EntityFramework.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Helpers.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Mvc.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Razor.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.Razor.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\EntityFramework.xml
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Razor.xml
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.xml
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.Razor.xml
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Helpers.xml
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Mvc.xml
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.csprojAssemblyReference.cache
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.csproj.CopyComplete
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.dll
+C:\Users\Wissen\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.pdb
+C:\Users\Wissen\Desktop\repos\Project\MVC\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.csprojAssemblyReference.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\MVC-CircloidTemplate.dll.config
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\MVC-CircloidTemplate.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\MVC-CircloidTemplate.pdb
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csc.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csc.exe.config
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csc.rsp
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csi.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csi.exe.config
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csi.rsp
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.AppContext.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Console.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.Compression.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Claims.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.ValueTuple.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\vbc.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\vbc.exe.config
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\vbc.rsp
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\VBCSCompiler.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\EntityFramework.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\EntityFramework.SqlServer.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Helpers.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Mvc.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Razor.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.Razor.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\EntityFramework.xml
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\EntityFramework.SqlServer.xml
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Razor.xml
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.xml
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.Razor.xml
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Helpers.xml
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Mvc.xml
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.csprojAssemblyReference.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.csproj.CopyComplete
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.pdb
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\MVC-CircloidTemplate.dll.config
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\MVC-CircloidTemplate.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\MVC-CircloidTemplate.pdb
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csc.exe
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csc.exe.config
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csc.rsp
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csi.exe
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csi.exe.config
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csi.rsp
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.AppContext.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Console.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.Compression.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Claims.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.ValueTuple.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\vbc.exe
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\vbc.exe.config
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\vbc.rsp
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\EntityFramework.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Helpers.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Mvc.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Razor.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.Razor.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\EntityFramework.xml
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Razor.xml
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.xml
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.Razor.xml
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Helpers.xml
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Mvc.xml
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.csprojAssemblyReference.cache
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.csproj.CopyComplete
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.dll
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.pdb
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC_CircloidTemplate.Properties.Resources.resources
+C:\Users\Wissen\Desktop\örnekler\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.csproj.GenerateResource.cache
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\MVC-CircloidTemplate.dll.config
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\MVC-CircloidTemplate.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\MVC-CircloidTemplate.pdb
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csc.exe
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csc.exe.config
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csc.rsp
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csi.exe
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csi.exe.config
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\csi.rsp
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.Managed.Core.targets
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.AppContext.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Collections.Immutable.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Console.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.Compression.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.FileSystem.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.IO.Pipes.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Reflection.Metadata.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.AccessControl.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Claims.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Security.Principal.Windows.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.ValueTuple.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Xml.XmlDocument.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Xml.XPath.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\vbc.exe
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\vbc.exe.config
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\vbc.rsp
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\VBCSCompiler.exe
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\roslyn\VBCSCompiler.exe.config
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\EntityFramework.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\EntityFramework.SqlServer.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\Microsoft.Web.Infrastructure.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Helpers.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Mvc.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Razor.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.Deployment.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.Razor.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\EntityFramework.xml
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\EntityFramework.SqlServer.xml
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Razor.xml
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.xml
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.Deployment.xml
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Webpages.Razor.xml
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Helpers.xml
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\System.Web.Mvc.xml
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.csprojAssemblyReference.cache
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC_CircloidTemplate.Properties.Resources.resources
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.csproj.GenerateResource.cache
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.csproj.CoreCompileInputs.cache
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.csproj.CopyComplete
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.dll
+F:\örnekler\yeni-mvc-Circloid Template\NT-MVC-CircloidTemplate\MVC-CircloidTemplate\obj\Debug\MVC-CircloidTemplate.pdb

@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "UsersRoles2";
+}
+
+<div class="form-group">
+    <div class="row">
+
+        <div class="col-md-6">
+            <div class="form-group h4">
+                Kullanıcı Rolleri:
+            </div>
+            <div id="divUserRoles">
+                <select multiple class="form-control" id="selectUserRoles" name="removedRoles">
+                    @foreach (string role in ViewBag.UserRoles)
+                    {
+                        <option value="@role">@role</option>
+
+                    }
+                </select>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+

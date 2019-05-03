@@ -1,0 +1,132 @@
+﻿
+@{
+    ViewBag.Title = "AssignRole";
+}
+
+@section head{
+
+    <script src="~/Content/assets/js/required/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            $("#removedRoles").on("click", function () {
+                //alert("clik e gridi");
+                console.log("removedRoles on click");
+                const username = $(this).attr("data-username");
+                console.log(username);
+                let removedRoles = [];
+                console.log(removedRoles);
+                $("#selectUserRoles>option:selected").each(function () {
+                    const role = $(this).val();
+                    removedRoles.push(role);
+                    console.log(removedRoles);
+
+                });
+                $.ajax({
+                    type: "POST",
+                    url: "/User/DeleteRole?username=" + username + "&removedRoles=" + removedRoles,
+
+                    success: function (response) {
+                        window.location.replace("/User/AssignRole?username=" + username + "&message=" + response);
+                    },
+                    error: function () {
+                        alert("rol silme sırasında ajax hatası oluştu.");
+                    }
+                });
+
+            });
+        });
+    </script>
+
+}
+
+<div class="row">
+
+    <div class="col-md-12">
+        <div class="block">
+            <div class="block-heading">
+                <div class="main-text h2">
+                    Rol Atama
+                </div>
+                <div class="block-controls">
+                    <a href="/User/Index"><span aria-hidden="true" class="icon icon-cross icon-size-medium block-control-remove"></span></a>
+                    <span aria-hidden="true" class="icon icon-arrow-down icon-size-medium block-control-collapse"></span>
+                </div>
+            </div>
+            <div class="block-content-outer">
+                <div class="block-content-inner">
+
+                    <div class="h2">
+                        Kullanıcı Adı:<b>@ViewBag.Username</b>
+                    </div>
+
+                    <form action="/User/AssignRole" method="post" role="form">
+
+
+                        <div class="form-group">
+                            @{
+                                string message = ViewBag.Message;
+                                if (message != null)
+                                {
+                                    if (message == "Basarili")
+                                    {
+                                        <label class="text-success">@message</label>
+                                    }
+                                    else
+                                    {
+                                        <label class="text-danger">@message</label>
+                                    }
+
+                                }
+                            }
+
+                        </div>
+
+                        <div class="form-group">
+                            <div class="row">
+
+                                <div class="col-md-6">
+                                    <div class="form-group h4">
+                                        Kullanıcı Rolleri:
+                                    </div>
+                                    <div id="divUserRoles">
+                                        <select multiple class="form-control" id="selectUserRoles" name="removedRoles">
+                                            @foreach (string role in ViewBag.UserRoles)
+                                            {
+                                                <option value="@role">@role</option>
+
+                                            }
+                                        </select>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-6">
+                                    <div class="form-group h4">
+                                        Eklenebilir roller:
+                                    </div>
+                                    <select multiple class="form-control" id="selectAvailableRoles" name="addedRoles">
+                                        @foreach (string role in ViewBag.AvailableRoles)
+                                        {
+                                            <option value="@role">@role</option>
+                                        }
+
+                                    </select>
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+
+                            <br />
+                            <input name="username" value="@ViewBag.UserName" type="hidden" />
+                            <button type="submit" class="btn btn-primary">Rol Ata</button>
+                            <a class="btn btn-danger" id="removedRoles" data-username="@ViewBag.Username">Sil</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

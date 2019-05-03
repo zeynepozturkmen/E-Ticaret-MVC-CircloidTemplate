@@ -1,0 +1,151 @@
+﻿
+@{
+    ViewBag.Title = "Kategoriler";
+}
+
+
+@using MVC_CircloidTemplate.Models
+
+@Model  List<Category>
+
+
+    <div class=" row">
+
+        <div class="col-md-12">
+            <div class="block">
+                <div class="block-heading">
+                    <div class="main-text h2">
+                        Kategori Listesi
+                    </div>
+                    <div class="block-controls">
+
+                        <span aria-hidden="true" class="icon icon-arrow-down icon-size-medium block-control-collapse"></span>
+                        @*<button type="button" class="btn btn-success rounded">Success Button</button>*@
+                        <a href="/Category/AddCategory" class="btn btn-success rounded" role="button">Kategori Ekle</a>
+
+                    </div>
+                </div>
+                <div class="block-content-outer">
+                    <div class="block-content-inner">
+                        <table class="table table-striped table-hover">
+                            <thead>
+                                <tr>
+                                    <th>Category ID</th>
+                                    <th>Category Name</th>
+                                    <th>Description</th>
+                                    <th>Resim </th>
+                                    <th>Güncelle</th>
+                                    <th>Yeni sayfada Sil</th>
+                                    <th>Sor Sil</th>
+
+
+                                </tr>
+                            </thead>
+                            <tbody>
+
+                                @foreach (Category ctg in Model)
+                                {
+
+                                <tr>
+                                    <td>@ctg.CategoryID</td>
+                                    <td><span class="label label-primary">@ctg.CategoryName</span></td>
+                                    <td><span class="label label-primary">@ctg.Description</span></td>
+
+                                    <td><img src="@String.Format("data:image/jpg;base64,{0}",ctg.Base64String)" alt="Kategori Resim" width="100" height="100"/></td>
+
+                                    <td><a href="/Category/UpdateCategory/@ctg.CategoryID" class="btn btn-warning rounded">Güncelle</a></td>
+
+                                    <td><a href="/Category/DeleteCategory/@ctg.CategoryID" class="btn btn-danger rounded">Sil</a></td>
+
+
+                                    <!-- a'nın href'ine bir şey yazarsak AJAX yazamayız.Tıklandığında bir yere gitmemesini istiyorsak href'e "#" isareti yazarız.
+        Yani bir yere yönlendirme yapmıyoruz.
+        -->
+                                    <td><a href="#" class="btn btn-danger rounded ktgSil" data-ktgID="@ctg.CategoryID">Sor Sil</a></td>
+
+
+                                    <!--data-ktgID= (kategori ID adında bir data tipi oluşturduk ve butona basılınca gelen CategoryID'yi attık içine)-->
+
+
+                                </tr>
+
+                                }
+
+
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+
+  @section scripts{
+
+    <script src="~/Content/assets/js/required/jquery-1.11.1.min.js"></script>
+        
+    <script>
+
+
+        $(".ktgSil").click(function () {
+
+             //alert("sor sile girdi");
+
+            //var answer = confirm("Kayıt silinsin mi?");    //Confirm = evet- hayır soruları sorduran mesaj kutusu.
+
+            //if (answer == true) {
+            //    alert("Tamama basıldı.");
+
+            //}
+            //else {
+
+            //    alert("İptale basıldı.");
+
+            //}
+
+
+            var answer = confirm("Kayıt silinsin mi?");    //Confirm = evet- hayır soruları sorduran mesaj kutusu.
+
+            if (answer == true ) {
+
+                var ktgID = $(this).attr("data-ktgID");
+
+                alert("ktgID: " + ktgID);
+
+                $.ajax({
+
+                    type:"POST",
+                    url:"/Category/DeleteCategory/"+ktgID,
+
+                    success: function () {
+
+
+                        alert("Kayıt silindi");
+                        window.location.replace("/Category/Index");  //Burası AJAX koduyla yapılmadı,Ajax ile yapmayı araştır.(Yani tüm sayfayı(Footer,header vs) yüklüyor bunu istemiyoruz)
+                    },  
+                    
+                    error: function () {
+
+                        alert("Kayıt silme sırasında hata oluştu!");
+                    },
+
+                });
+
+            }
+            else {
+
+                alert("İptale basıldı.");
+
+                 }
+
+        });
+
+
+    </script>
+        }
+
+
